@@ -1,2 +1,4 @@
 Este es un archivo de prueba para usar git.
 Este es mi segundo cambio en el archivo.
+Vuelvo a realizar algunos cambios.
+Y ahora lo dejamos así para otro commit.
