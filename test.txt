@@ -1,1 +1,2 @@
 Este es un archivo de prueba para usar git.
+Este es mi segundo cambio en el archivo.
