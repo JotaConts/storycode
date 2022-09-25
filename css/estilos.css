@@ -40,3 +40,9 @@ body {
 #post {
     padding: 1em;
 }
+
+#footer {
+    background: burlywood;
+    color: midnightblue;
+    text-align: center;
+}
